@@ -4,7 +4,7 @@ Sample project that shows how to handle GraphQL with ReactJS and Express
 
 This project has been developed to practice and improve my skills.
 
-###Getting Started###
+## Getting Started
 
 Checkout this repository and install dependencies:
 
